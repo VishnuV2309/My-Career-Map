@@ -1,5 +1,3 @@
-
-```markdown
 # MyCareerMap – Personalized Career & Skills Advisor
 
 ## Team: NeuroSync
@@ -222,15 +220,18 @@ If not using VS Code, open two separate terminal windows:
 
 **Terminal 1**
 
-```bash
+
 npm run dev
-```
+
+
+
 
 **Terminal 2**
 
-```bash
 npm run genkit:dev
-```
+
+
+
 
 Both servers must run simultaneously for full functionality.
 
